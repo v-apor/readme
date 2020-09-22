@@ -1,8 +1,9 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
     <head>
-        <title> Apoorv-Home </title>
+        <title> Homepage </title>
     </head>
     <body>
-        Hello World!
+        <h1>Hello World!</h1>
     </body>
 </html>
